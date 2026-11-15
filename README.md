@@ -1,5 +1,5 @@
-# 💫 About Me: We are TEAM EXOVYRA
-
+# 💫 About Us:
+**We are TEAM EXOVYRA**.
 Welcome to our GitHub profile! We are a passionate group of developers and creators building cool projects, exploring new technologies, and having fun along the way. 
 
 - 🔭 We’re currently working on the NASA Space Mission App.
