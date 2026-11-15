@@ -1,5 +1,10 @@
-# 💫 About Me:
-We are TEAM EXOVYRA. We created this team to participate in the NASA Space Apps Challenge. Our Mission was Challenge No. 13: Space Mission Design Game
+# 💫 About Me: We are TEAM EXOVYRA
+
+Welcome to our GitHub profile! We are a passionate group of developers and creators building cool projects, exploring new technologies, and having fun along the way. 
+
+- 🔭 We’re currently working on the NASA Space Mission App.
+- 🌱 We’re constantly learning and leveling up our tech stack.
+- ⚡ Fun fact: We believe that the best code is written with curiosity and creativity!
 
 
 ## 🌐 Socials:
